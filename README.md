@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacobzhou-waterloo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacobzhou-waterloo/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/zhoujacob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zhoujacob/" height="30" width="40" /></a>2
+<a href="https://www.leetcode.com/https://leetcode.com/u/zhoujacob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zhoujacob/" height="30" width="40" /></a>
 </p>
 📫 Contact me at my zhoujaco9220@gmail.com
 
