@@ -5,8 +5,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IXLBrHT_dczWvTZnK9ayDj5Zxi-YeSgN/view?usp=drive_link](https://drive.google.com/file/d/1IXLBrHT_dczWvTZnK9ayDj5Zxi-YeSgN/view?usp=drive_link)
 
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jacobzhou-waterloo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacobzhou-waterloo/" height="30" width="40" /></a>
