@@ -3,7 +3,7 @@
 
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IXLBrHT_dczWvTZnK9ayDj5Zxi-YeSgN/view?usp=drive_link](https://drive.google.com/file/d/1IXLBrHT_dczWvTZnK9ayDj5Zxi-YeSgN/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q0NDRkOniv8Cq2X6HFQqlOuw6035mksR/view?usp=sharing](https://drive.google.com/file/d/1q0NDRkOniv8Cq2X6HFQqlOuw6035mksR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
