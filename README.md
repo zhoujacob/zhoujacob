@@ -23,9 +23,9 @@ Previously interned at Shopify, SPS Commerce, and NuEnergy.AI.
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<a href="https://leetcode.com/u/zhoujacob/" target="_blank">
+<!-- <a href="https://leetcode.com/u/zhoujacob/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
+</a> -->
 </p>
 
 📫 **Email:** zhoujaco9220@gmail.com
